@@ -5,6 +5,7 @@ You will find the following files in this repository:
 - README.md (this file)
 - CodeBook.md (file containing explanation of the variables)
 - run_analysis.R (script file that creates the tidy data for this project)
+- tiny_data.txt (the cleaned data output from the run_analysis.R)
 
 
 Steps on how the run_analysis.R script works:
