@@ -1,8 +1,6 @@
-Getting and Cleaning Data - Course Project
-===========================================
+Getting and Cleaning Data - Course Project - Code Book
+======================================================
 
-Introduction
-============
 This file outlines the data and variables of the dataset from "Human Activity Recognition Using Smartphones Data Set" available here: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The following are the signals from the dataset:
